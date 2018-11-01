@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Create a Website</title>
-	<atom:link href="https://learnandbe.eu/feed/" rel="self" type="application/rss+xml" />
-	<link>https://learnandbe.eu</link>
+	<atom:link href="http://learnandbe.eu/feed/" rel="self" type="application/rss+xml" />
+	<link>http://learnandbe.eu</link>
 	<description>Step by Step </description>
 	<lastBuildDate>Thu, 01 Nov 2018 11:31:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,9 +19,9 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>https://learnandbe.eu/wp-content/uploads/2018/10/cropped-img1-1-32x32.png</url>
+	<url>http://learnandbe.eu/wp-content/uploads/2018/10/cropped-img1-1-32x32.png</url>
 	<title>Create a Website</title>
-	<link>https://learnandbe.eu</link>
+	<link>http://learnandbe.eu</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
